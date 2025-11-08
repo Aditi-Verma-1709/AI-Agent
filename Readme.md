@@ -49,7 +49,7 @@ venv\Scripts\activate        # Windows
 ```
 ### Step 3 : Install Dependencies
 ```bash
-python -r requirements.txt
+pip install -r requirements.txt
 ```
 ### Step 4 : Add your Open AI Api Key
 In .env file, add your Open AI API Key
