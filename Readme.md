@@ -29,7 +29,7 @@ All agents communicate seamlessly to create consistent and working outputs.
 
 ## Tech Stack
 
-- **Model:** OpenAI GPT-3.5-Turbo  
+- **Model:** OpenAI GPT-4.1-Nano  
 - **Language:** Python  
 - **Tools:** Git, Virtualenv, VS Code  
 
