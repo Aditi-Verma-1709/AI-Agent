@@ -14,7 +14,7 @@ load_dotenv()
 set_debug(True)
 set_verbose(True)
 
-llm = ChatOpenAI(model="gpt-3.5-turbo")
+llm = ChatOpenAI(model="gpt-4.1-nano")
 
 
 def planner_agent(state: dict) -> dict:
